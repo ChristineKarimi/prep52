@@ -1,6 +1,8 @@
 # Personal Website
 This is a peoject that showcases details about me and projects i've worked on.
 
+![My portlio screenshots](IMAGES/portfolio-1.jpg)
+
 # Names of author
 Built by Christine
 
